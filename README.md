@@ -1,7 +1,7 @@
 # Repositorio-completito
 # Proyecto con Licencia MIT
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto utiliza la **Licencia MIT**, seleccionada al crear el repositorio. Esta licencia permite a cualquier persona usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar o incluso vender el software
 
@@ -22,5 +22,5 @@ Este proyecto utiliza la **Licencia MIT**, seleccionada al crear el repositorio.
 - No ofrece garantías  
 - No se responsabiliza si el software causa problemas  
 
-## 👥 Colaboradores
+## Colaboradores
 Este repositorio permite colaborar a varias personas invitadas mediante GitHub → Settings → Collaborators.
