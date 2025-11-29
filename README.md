@@ -17,7 +17,7 @@ Este proyecto utiliza la **Licencia MIT**, seleccionada al crear el repositorio.
 
 - Debes **mantener la nota de copyright** y la **nota de licencia** en cualquier copia del software.
 
-## ¿Qué NO ofrece?
+## ¿Qué no ofrece?
 
 - No ofrece garantías  
 - No se responsabiliza si el software causa problemas  
