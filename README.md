@@ -20,7 +20,4 @@ Este proyecto utiliza la **Licencia MIT**, seleccionada al crear el repositorio.
 ## ¿Qué no ofrece?
 
 - No ofrece garantías  
-- No se responsabiliza si el software causa problemas  
-
-## Colaboradores
-Este repositorio permite colaborar a varias personas invitadas mediante GitHub → Settings → Collaborators.
+- No se responsabiliza si el software causa problemas 
